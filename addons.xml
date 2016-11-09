@@ -17,7 +17,7 @@
 
 <addon id="plugin.video.Mavic"
        name="[COLOR yellow]Mavic[/COLOR]"
-       version="1.0.1"
+       version="1.0.2"
        provider-name="Mavic Pro">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -46,7 +46,7 @@
   </extension>
 </addon>
 
-<addon id="repository.mavic" name="Mavic official Repo" version="1.0.1" provider-name="Mavic">
+<addon id="repository.mavic" name="Mavic official Repo" version="1.0.2" provider-name="Mavic">
 	<extension point="xbmc.addon.repository" name="Kodi Mavic official Repo">
 		<info compressed="false">https://raw.githubusercontent.com/mavicpro/mavicrepo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/mavicpro/mavicrepo/master/addons.xml.md5</checksum>
