@@ -31,7 +31,7 @@
   </extension>
 </addon>
 
-    <addon id="repository.mavic" name="mavic" version="1.0.7" provider-name="mavicpro">
+    <addon id="repository.mavic" name="mavic" version="1.0.9" provider-name="mavicpro">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
@@ -43,7 +43,7 @@
         </extension>
         <extension point="xbmc.addon.metadata">
             <summary>Mavic Repo para Kodi</summary>
-            <description>Instala el Addon Mavic para Kodi y disfruta de sus contenidos multimedia. Más info en http://addonmavic.blogspot.com.es.</description>
+            <description>Instala el Addon Mavic para Kodi y disfruta de sus contenidos multimedia. http://addonmavic.blogspot.com.es.</description>
             <platform>all</platform>
     </extension>
 </addon>
