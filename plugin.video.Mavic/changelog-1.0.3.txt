@@ -1,2 +1,2 @@
-Version 1.0.03
+Version 1.0.3
 First Lists addon
