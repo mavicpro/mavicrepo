@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.Mavic"
        name="[COLOR yellow]Mavic[/COLOR]"
-       version="1.0.3"
+       version="1.0.4"
        provider-name="Mavic Pro">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
