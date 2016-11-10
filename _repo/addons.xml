@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<addons>
     <addon id="repository.mavic" name="mavic" version="1.0.6" provider-name="mavicpro">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
@@ -15,3 +16,4 @@
             <platform>all</platform>
     </extension>
 </addon>
+</addons>
