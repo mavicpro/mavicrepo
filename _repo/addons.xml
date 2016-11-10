@@ -31,7 +31,7 @@
   </extension>
 </addon>
 
-    <addon id="repository.mavic" name="mavic" version="1.0.9" provider-name="mavicpro">
+    <addon id="repository.mavic" name="mavic" version="1.1.0" provider-name="mavicpro">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
