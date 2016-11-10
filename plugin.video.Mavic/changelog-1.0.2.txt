@@ -1,5 +1,2 @@
-Version 1.0.02
+Version 1.0.03
 First Lists addon
-
-1.0.02
-Creadas imagenes del addons
