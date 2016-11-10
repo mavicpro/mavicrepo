@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="repository.mavic" name="mavic" version="1.0.6" provider-name="mavicpro">
+    <addon id="repository.mavic" name="mavic" version="1.0.7" provider-name="mavicpro">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
@@ -10,8 +10,8 @@
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
-            <summary>A short summary of this addon</summary>
-            <description>The description can be longer. Using [CR] you can create a newline. The use of other markup is not advised.</description>
+            <summary>Mavic Repo para Kodi</summary>
+            <description>Instala el Addon Mavic para Kodi y disfruta de sus contenidos multimedia. Más info en http://addonmavic.blogspot.com.es.</description>
             <platform>all</platform>
     </extension>
 </addon>
