@@ -4,7 +4,7 @@ vertv:"http://diskokosmiko.mx/chicho306/el-ultimo-hombre-en-la-tierra-t1-33754" 
 vertv:"http://diskokosmiko.mx/chicho306/el-ultimo-hombre-en-la-tierra-t2-33757" name:"El ultimo hombre en la tierra T2";
 vertv:"http://diskokosmiko.mx/chicho306/stranger-things-t1-33642" name:"Stranger things t1";
 vertv:"http://diskokosmiko.mx/chicho306/mr-robot-t1-33535" name:"Mr Robot T1";
-vertv:"http://diskokosmiko.mx/trivianita/cometelo-canal-sur-el-rockero-46288" name:"Cometelo De Canal Sur";
+vertv:"http://diskokosmiko.mx/chicho306/z-nation-temporada-1-32705" name:"Nacion Z T1";
 vertv:"http://diskokosmiko.mx/trivianita/como-nos-reimosel-rockero-36706" name:"Como Nos Reimos";
 vertv:"http://diskokosmiko.mx/ddolfia/como-nos-reimos-49065" name:"Como Nos Reimos 2";
 vertv:"http://diskokosmiko.mx/trivianita/personas-y-cosas-increibles-el-rockero-44566" name:"Cosas Increibles";
