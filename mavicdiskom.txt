@@ -1,9 +1,8 @@
-vertv:"#" name:"Series";
 vertv:"http://diskokosmiko.mx/naredo/colombo-serie-completa-20532" name:"Serie Completa Colombo";
 vertv:"http://diskokosmiko.mx/naredo/el-equipo-a-20392" name:"El equipo A";
 vertv:"http://diskokosmiko.mx/chicho306/el-ultimo-hombre-en-la-tierra-t1-33754" name:"El ultimo hombre en la tierra T1";
 vertv:"http://diskokosmiko.mx/chicho306/el-ultimo-hombre-en-la-tierra-t2-33757" name:"El ultimo hombre en la tierra T2";
-vertv:"http://diskokosmiko.mx/trivianita/camera-cafe-el-rockero-39122" name:"Camara Cafe";
+vertv:"http://diskokosmiko.mx/chicho306/stranger-things-t1-33642" name:"Stranger things t1";
 vertv:"http://diskokosmiko.mx/chicho306/casados-a-primera-vista-t3-49191" name:"Casados a Primera Vista Temporada 3";
 vertv:"http://diskokosmiko.mx/trivianita/cometelo-canal-sur-el-rockero-46288" name:"Cometelo De Canal Sur";
 vertv:"http://diskokosmiko.mx/trivianita/como-nos-reimosel-rockero-36706" name:"Como Nos Reimos";
