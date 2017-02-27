@@ -2,6 +2,10 @@ vertv:"http://diskokosmiko.mx/sandbox/documentales-varios-24546" name:"Documenta
 vertv:"http://diskokosmiko.mx/titotv/alienigenas-ancestrales-temporadas-1-2-3-4-2802" name:"Alienigenas ancestrales T-1-2-3-4";
 vertv:"http://diskokosmiko.mx/ddolfia/como-nos-reimos-49065" name:"Como nos reimos";
 vertv:"http://diskokosmiko.mx/ddolfia/hitler-la-guia-definitivacompleta-54306" name:"hitler la guia definitiva completa";
+vertv:"http://diskokosmiko.mx/jml/planeta-tierra-25417" name:"Planeta Tierra";
+
+
+
 
 
 
