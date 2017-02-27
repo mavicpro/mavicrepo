@@ -5,6 +5,9 @@ vertv:"http://diskokosmiko.mx/ddolfia/hitler-la-guia-definitivacompleta-54306" n
 vertv:"http://diskokosmiko.mx/jml/planeta-tierra-25417" name:"Planeta Tierra";
 vertv:"http://diskokosmiko.mx/elrules/planeta-azul-35480" name:"Planeta Azul";
 vertv:"http://diskokosmiko.mx/elrules/planeta-encantado-35383" name:"Planeta Encantado";
+vertv:"http://diskokosmiko.mx/chicho306/policias-en-accion-24286" name:"Policias en accion";
+
+
 
 
 
