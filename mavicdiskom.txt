@@ -1,3 +1,4 @@
+vertv:"#" name:"Series";
 vertv:"http://diskokosmiko.mx/naredo/colombo-serie-completa-20532" name:"Serie Completa Colombo";
 vertv:"http://diskokosmiko.mx/naredo/el-equipo-a-20392" name:"El equipo A";
 vertv:"http://diskokosmiko.mx/trivianita/camera-cafe-fibrileandoel-rockero-39128" name:"Camara Cafe Fibrileando";
