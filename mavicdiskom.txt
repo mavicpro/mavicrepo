@@ -8,7 +8,7 @@ vertv:"http://diskokosmiko.mx/chicho306/z-nation-temporada-1-32705" name:"Nacion
 vertv:"http://diskokosmiko.mx/chicho306/pesadilla-en-la-cocina-4-temporadas-24335" name:"Pesadilla en la cocina 4 Temporadas";
 vertv:"http://diskokosmiko.mx/chicho306/the-walking-dead-t1-a-la-t5-dual-22729" name:"The walking dead t1 a la t5";
 vertv:"http://diskokosmiko.mx/titotv/escobar-el-patron-del-mal-2799" name:"Escobar el patron del mal";
-vertv:"http://diskokosmiko.mx/trivianita/crimenes-imperfectos-ricos-y-famosos-50753" name:"Crimenes Perfectos Ricos y Famosos";
+vertv:"http://diskokosmiko.mx/ddolfia/raices-miniserie-49376" name:"Raices";
 vertv:"http://diskokosmiko.mx/trivianita/crimenes-imperfectos-el-rockero-50612" name:"Crimenes perfectos";
 vertv:"http://diskokosmiko.mx/trivianita/cruz-y-raya-y-semanita-y-especiales-el-rockero-36622" name:"Cruz Y Raya";
 vertv:"http://diskokosmiko.mx/trivianita/el-libro-gordo-de-peteteel-rockero-48760" name:"El Libro Gorde De Petete";
