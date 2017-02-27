@@ -1,40 +1,6 @@
-vertv:"http://diskokosmiko.mx/trivianita/apm-53051" name:"APM";
-vertv:"http://diskokosmiko.mx/trivianita/bromas-de-inocente-inocenteel-rockero-48224" name:"Bromas de Inocente Inocente";
-vertv:"http://diskokosmiko.mx/trivianita/camera-cafe-fibrileandoel-rockero-39128" name:"Camara Cafe Fibrileando";
-vertv:"http://diskokosmiko.mx/trivianita/camera-cafe-el-rockero-39122" name:"Camara Cafe";
-vertv:"http://diskokosmiko.mx/chicho306/casados-a-primera-vista-t3-49191" name:"Casados a Primera Vista Temporada 3";
-vertv:"http://diskokosmiko.mx/trivianita/cometelo-canal-sur-el-rockero-46288" name:"Cometelo De Canal Sur";
-vertv:"http://diskokosmiko.mx/trivianita/como-nos-reimosel-rockero-36706" name:"Como Nos Reimos";
-vertv:"http://diskokosmiko.mx/ddolfia/como-nos-reimos-49065" name:"Como Nos Reimos 2";
-vertv:"http://diskokosmiko.mx/trivianita/personas-y-cosas-increibles-el-rockero-44566" name:"Cosas Increibles";
-vertv:"http://diskokosmiko.mx/trivianita/crimenes-imperfectos-ricos-y-famosos-50753" name:"Crimenes Perfectos Ricos y Famosos";
-vertv:"http://diskokosmiko.mx/trivianita/crimenes-imperfectos-el-rockero-50612" name:"Crimenes perfectos";
-vertv:"http://diskokosmiko.mx/trivianita/cruz-y-raya-y-semanita-y-especiales-el-rockero-36622" name:"Cruz Y Raya";
-vertv:"http://diskokosmiko.mx/trivianita/el-libro-gordo-de-peteteel-rockero-48760" name:"El Libro Gorde De Petete";
-vertv:"http://diskokosmiko.mx/trivianita/gomaespuma-humor-el-rockero-33480" name:"Gomaespuma";
-vertv:"http://diskokosmiko.mx/trivianita/gym-tony-52738" name:"Gym Tony";
-vertv:"http://diskokosmiko.mx/trivianita/homozaping-programas-completos-53126" name:"Homozaping";
-vertv:"http://diskokosmiko.mx/ddolfia/jajaja-show-53341" name:"Ja Ja Ja Show";
-vertv:"http://diskokosmiko.mx/trivianita/jose-mota-presenta-programas-el-rockero-36740" name:"Jose Mota Presenta";
-vertv:"http://diskokosmiko.mx/trivianita/jose-mota-y-semanita-el-rockero-36614" name:"Jose Mota Y Semanita";
-vertv:"http://diskokosmiko.mx/trivianita/la-hora-de-jose-mota-1-2-3-programas-el-rockero-36669" name:"Lo Hora de Jose Mota";
-vertv:"http://diskokosmiko.mx/trivianita/martes-y-13-especiales-el-rockero-36791" name:"Martes y Trece Especiales";
-vertv:"http://diskokosmiko.mx/trivianita/operaciones-de-cirugiael-rockero-48611" name:"Operaciones de Cirugia";
-vertv:"http://diskokosmiko.mx/ddolfia/pesadilla-en-la-cocina-47910" name:"Pesadilla En la Cocina";
-vertv:"http://diskokosmiko.mx/chicho306/pesadilla-en-la-cocina-4-temporadas-24335" name:"Pesadilla En la Cocina Temporada 4";
-vertv:"http://diskokosmiko.mx/garroteca/planet-earth-planeta-tierra-48162" name:"Planeta Tierra";
-vertv:"http://diskokosmiko.mx/trivianita/sabadabada-el-rockero-47550" name:"Sabadabada";
-vertv:"http://diskokosmiko.mx/trivianita/savage-kingdomel-rockero-48600" name:"Savage Kingdom";
-vertv:"http://diskokosmiko.mx/trivianita/secretos-de-la-magia-finalmente-revelados-49205" name:"Secretos de la Magia Finalmente Revelados";
-vertv:"http://diskokosmiko.mx/ader/top-chef-t1-oskarsan-35745" name:"Top Chef 1";
-vertv:"http://diskokosmiko.mx/ader/top-chef-t2-oskarsan-35874" name:"Top Chef 2";
-vertv:"http://diskokosmiko.mx/trivianita/top-trending-tele-el-rockero-35219" name:"Top Trending";
-vertv:"http://diskokosmiko.mx/trivianita/trucos-caseros-el-rockero-44674" name:"Trucos Caseros";
-vertv:"http://diskokosmiko.mx/chicho306/tu-cara-me-suena-t5-40990" name:"Tu Cara Me Suena Temporada 5";
-vertv:"http://diskokosmiko.mx/chicho306/tu-si-que-si-50384" name:"Tú Sí Que Sí";
-vertv:"http://diskokosmiko.mx/santy/curso-completo-zumba-19678" name:"Zumba Curso Completo";
+mavidocu:"http://copiapop.com/deckardbcn/planeta-helado-35319" name:"Planeta Helado";
 
-uno:"http://mvod.lvlt.rtve.es/auth/resources/TE_NGVA/mp4/4/8/0000000114884" name:"prueba";
+
 
 
 
