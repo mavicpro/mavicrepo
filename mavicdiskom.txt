@@ -1,5 +1,5 @@
 vertv:"http://diskokosmiko.mx/naredo/colombo-serie-completa-20532" name:"Serie Completa Colombo";
-vertv:"http://diskokosmiko.mx/trivianita/bromas-de-inocente-inocenteel-rockero-48224" name:"Bromas de Inocente Inocente";
+vertv:"http://diskokosmiko.mx/naredo/el-equipo-a-20392" name:"El equipo A";
 vertv:"http://diskokosmiko.mx/trivianita/camera-cafe-fibrileandoel-rockero-39128" name:"Camara Cafe Fibrileando";
 vertv:"http://diskokosmiko.mx/trivianita/camera-cafe-el-rockero-39122" name:"Camara Cafe";
 vertv:"http://diskokosmiko.mx/chicho306/casados-a-primera-vista-t3-49191" name:"Casados a Primera Vista Temporada 3";
