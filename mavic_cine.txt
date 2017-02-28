@@ -19,11 +19,8 @@ mavicine:"http://diskokosmiko.mx/garroteca/denzel-washington-peliculas-recomenda
 mavicine:"http://diskokosmiko.mx/garroteca/james-bond-007-coleccion-espanol-43637" name:"Cine James Bond 007";
 mavicine:"http://diskokosmiko.mx/garroteca/el-senor-de-los-anillos-la-coleccion-43642" name:"Cine El señor de los anillos";
 mavicine:"http://diskokosmiko.mx/jml/peliculas-25581" name:"Cine Variado (Muchas) ";
-mavicine:"http://dis" name:"Cine ";
-mavicine:"http://dis" name:"Cine ";
-mavicine:"http://dis" name:"Cine ";
-mavicine:"http://dis" name:"Cine ";
-mavicine:"http://dis" name:"Cine ";
+mavicine:"http://diskokosmiko.mx/matubass/estrenos-49008" name:"Cine Estrenos ";
+
 
 
 
