@@ -1,4 +1,14 @@
+mavicine:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-41154" name:"Pelis Antiguas 1";
+mavicine:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-2-41773" name:"Pelis Antiguas 2";
+mavicine:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-3-41991" name:"Pelis Antiguas 3";
+mavicine:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-4-42339" name:"Pelis Antiguas 4";
 mavicine:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-5-42683" name:"Pelis Antiguas 5";
+mavicine:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-6-44636" name:"Pelis Antiguas 6";
+mavicine:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-7-45847" name:"Pelis Antiguas 7";
+
+
+
+
 
 
 
