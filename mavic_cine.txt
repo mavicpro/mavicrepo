@@ -5,6 +5,9 @@ mavicine:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-4-42339" name:"Pelis 
 mavicine:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-5-42683" name:"Pelis Antiguas 5";
 mavicine:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-6-44636" name:"Pelis Antiguas 6";
 mavicine:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-7-45847" name:"Pelis Antiguas 7";
+mavicine:"http://diskokosmiko.mx/naredo/belicas-20003" name:"Cine Belico";
+
+
 
 
 
