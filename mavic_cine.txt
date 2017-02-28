@@ -7,6 +7,17 @@ mavicine:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-6-44636" name:"Pelis 
 mavicine:"http://diskokosmiko.mx/PukinG/peliculas-antiguas-7-45847" name:"Pelis Antiguas 7";
 mavicine:"http://diskokosmiko.mx/naredo/belicas-20003" name:"Cine Belico";
 mavicine:"http://diskokosmiko.mx/naredo/piratas-20002" name:"Cine Piratas";
+mavicine:"http://diskokosmiko.mx/naredo/fantastico-20056" name:"Cine Fantastico";
+mavicine:"http://diskokosmiko.mx/naredo/comedia-19991" name:"Cine Comedia";
+mavicine:"http://diskokosmiko.mx/naredo/alvaro-vitale-19985" name:"Cine AlvaroVitale - Jaimito";
+mavicine:"http://diskokosmiko.mx/naredo/western-19889" name:"Cine Wester";
+mavicine:"http://diskokosmiko.mx/naredo/misterio-19965" name:"Cine Misterios ";
+mavicine:"http://dis" name:"Cine ";
+mavicine:"http://dis" name:"Cine ";
+mavicine:"http://dis" name:"Cine ";
+mavicine:"http://dis" name:"Cine ";
+mavicine:"http://dis" name:"Cine ";
+
 
 
 
